@@ -8,7 +8,7 @@ Body{
     padding-right: 16px!important;
 }
 .navbar-toggler{
-    outline:none;
+    outline:none!important;
 }
 .bg-black{
     background: #000
