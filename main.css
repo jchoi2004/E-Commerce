@@ -11,7 +11,7 @@ Body{
     outline:none!important;
 }
 .bg-black{
-    background: #000
+    background: rgb(154, 113, 69)
 }
 /*=======Slider========*/
 .carousel-item{
@@ -19,18 +19,21 @@ Body{
 }
 .carousel-image-1{
     background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),
-    url('./images/land1.jpeg');
+    url('./images/cat6.jpeg');
     background-size:cover;
+    height: 41rem;
 }
 .carousel-image-2{
     background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),
-    url('./images/land2.jpeg');
+    url('./images/cat2.jpeg');
     background-size:cover;
+    height: 41rem;
 }
 .carousel-image-3{
     background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),
-    url('./images/land3.jpeg');
+    url('./images/cat3.jpeg');
     background-size:cover;
+    height: 41rem;
 }
 .title-color{
     color:#fff;
@@ -89,7 +92,7 @@ Body{
 /*===========End of Service Section======*/
 /*==========Product Section===========*/
 #products{
-    background: #000;
+    background: rgb(154, 113, 69);
 }
 .product-title{
     color: #fff
