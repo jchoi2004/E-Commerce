@@ -21,19 +21,19 @@ Body{
     background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),
     url('./Images/cat6.jpeg');
     background-size:cover;
-    height: 500;
+    height: 50rem;
 }
 .carousel-image-2{
     background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),
     url('./Images/cat2.jpeg');
     background-size:cover;
-    height: 50;
+    height: 50rem;
 }
 .carousel-image-3{
     background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),
     url('./Images/cat3.jpeg');
     background-size:cover;
-    height: 50;
+    height: 50rem;
 }
 .title-color{
     color:#fff;
